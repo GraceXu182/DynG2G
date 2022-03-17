@@ -1,6 +1,6 @@
 # DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs
 
-This repository contains the code for [*DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs*](https://arxiv.org/abs/2109.13441) by *Mengjia Xu, Apoorva Vikram Singh and George Em Karniadakis*; This work has been submitted to [*IEEE Transactions on Neural Networks and Learning Systems*](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) (under revision).
+This repository contains the code for [*DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs*](https://arxiv.org/abs/2109.13441) by *Mengjia Xu, Apoorva Vikram Singh and George Em Karniadakis*; This work has been submitted to [*IEEE Transactions on Neural Networks and Learning Systems*](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) (under revision). (The code was developed by *Apoorva Vikram Singh* and *Mengjia Xu*)
 
 <img src="workflow.png" align='center' alt="drawing" width="800"/>
 
